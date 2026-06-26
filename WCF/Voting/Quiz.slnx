@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Client/Client.csproj" Id="cc6fda3d-bda1-4cef-8f48-1afa02b55dba" />
+  <Project Path="Server/Server.csproj" Id="b38b6c53-245a-451c-ac51-f1e20a09efce" />
+</Solution>
